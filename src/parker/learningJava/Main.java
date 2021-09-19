@@ -1,7 +1,6 @@
 package parker.learningJava;
 
 public class Main {
-
     public static void main(String[] args) {
         int count = 0;
         int sum = 0;
